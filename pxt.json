@@ -1,0 +1,19 @@
+{
+    "name": "A4Shield",
+    "version": "1.2.0",
+    "description": "Extension Test",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/no/A4-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "yotta": {},
+    "public": true
+}
